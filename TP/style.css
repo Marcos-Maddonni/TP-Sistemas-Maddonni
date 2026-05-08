@@ -15,6 +15,11 @@ h2 {
   font-size: 35px;
 font-family: 'Times New Roman', Times, serif;
 }
+p {
+   color: crimson; 
+  font-size: 35px;
+font-family: 'Times New Roman', Times, serif;
+}
 img {
   width: 300px;
   height: auto;
