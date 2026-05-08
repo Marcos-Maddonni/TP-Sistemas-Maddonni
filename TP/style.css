@@ -1,0 +1,21 @@
+body{
+    background-image: url(fondo.png);
+    background-position: center center center;
+    /* background-repeat: no-repeat; 
+    background-size: cover; */
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+   color: rgb(255, 0, 0); 
+  font-size: 35px;
+font-family: 'Times New Roman', Times, serif;
+}
+img {
+  width: 300px;
+  height: auto;
+}
